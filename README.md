@@ -1,1 +1,1 @@
-# GHG-Emissions-of-food-recipes
+# GHG Emissions of food recipes
