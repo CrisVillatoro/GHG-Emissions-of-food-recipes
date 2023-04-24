@@ -7,3 +7,7 @@ As the final project of the 12-week Data Science Bootcamp at Spiced Academy GmbH
 3. Build a LSTM (Long short-term memory) Recurrent Neural Network model for text generation.
 4. Calculate the environmental footprint of each of the recipes.
 5. Put objectives 2, 3 and 4 on a Streamlit App. 
+
+
+https://user-images.githubusercontent.com/121929719/233875362-0d886d97-5cb5-4c68-81a2-e62a8ca4652f.mov
+
